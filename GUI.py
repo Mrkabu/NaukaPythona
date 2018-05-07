@@ -1,0 +1,15 @@
+import tkinter
+
+window = tkinter.Tk()
+label = tkinter.Label(window, text="Pilot do dekoderów nc+")
+close = tkinter.Button(window, text="Zamknij", command=window.destroy)
+list1 = tkinter.Listbox(window)
+list1.insert(1, "ABCD")
+label.pack()
+close.pack()
+list1.pack()
+two = tkinter.Button(window, text="2")
+two.pack(side="left")
+one = tkinter.Button(window, text="1")
+one.pack(side="left")
+window.mainloop()

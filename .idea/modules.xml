@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/NaukaPythona.iml" filepath="$PROJECT_DIR$/.idea/NaukaPythona.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NewProject/.idea/NewProject.iml" filepath="$PROJECT_DIR$/../NewProject/.idea/NewProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PageObjectPattern/.idea/PageObjectPattern.iml" filepath="$PROJECT_DIR$/../PageObjectPattern/.idea/PageObjectPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Robotframework/.idea/Robotframework.iml" filepath="$PROJECT_DIR$/../Robotframework/.idea/Robotframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Selenium/.idea/Selenium.iml" filepath="$PROJECT_DIR$/../Selenium/.idea/Selenium.iml" />
+    </modules>
+  </component>
+</project>
